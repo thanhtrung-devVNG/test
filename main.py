@@ -1,3 +1,1 @@
-<?php
-echo "Chào Trung, VPS của mày đã chạy thành công!";
-?>
+print("Chào Trung, máy ảo Python đã chạy!")
